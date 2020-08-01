@@ -44,3 +44,6 @@ Resources:
     Condition: CreateEIPForProd
     Properties:
       InstanceId: !Ref MyVMInstance
+
+
+      I'm going to break this template now! :) 
